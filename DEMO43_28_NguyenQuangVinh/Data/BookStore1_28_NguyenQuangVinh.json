@@ -1,0 +1,12 @@
+[
+  {
+    "Title": "Mastering C# and .NET Programming",
+    "Author": "Philip Ledger",
+    "Price": 49.99
+  },
+  {
+    "Title": "F# Programming",
+    "Author": "Apress",
+    "Price": 39.99
+  }
+]
